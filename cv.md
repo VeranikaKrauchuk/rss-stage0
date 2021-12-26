@@ -16,3 +16,20 @@ My goal is to become a good Front End developer.
 -   SASS
 -   JavaScript (Basic)
 -   VS Code
+
+## Code
+```
+console.log("Start");
+    let x = 0;
+    while (i < 5) {
+        i++;
+        console.log("The namber is " + i);
+    }
+    console.log("Finish");
+
+```
+## Courses
++   RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## English
+**Pre-intermediate**
