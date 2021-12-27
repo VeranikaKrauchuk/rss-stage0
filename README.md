@@ -1,1 +1,1 @@
-https://github.com/VeranikaKrauchuk/rsschool-cv.git
+https://github.com/VeranikaKrauchuk/rsschool-cv/blob/gh-pages/cv.md
