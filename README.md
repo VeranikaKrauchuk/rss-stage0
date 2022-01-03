@@ -1,1 +1,1 @@
-https://github.com/VeranikaKrauchuk/rsschool-cv/
+https://veranikakrauchuk.github.io/rsschool-cv/

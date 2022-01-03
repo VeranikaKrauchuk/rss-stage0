@@ -169,13 +169,10 @@ h1.name {
 footer .container {
     min-height: 60px;
     background-color: #333D63;
+    background-image: url("../img/RSSchool.svg");
     background-size: contain;
     background-repeat: no-repeat;
-    justify-content: space-between;
-}
-
-.rss {
-    width: 200px;
+    justify-content: flex-end;
 }
 
 .year {
