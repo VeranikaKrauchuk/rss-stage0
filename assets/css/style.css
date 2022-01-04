@@ -86,10 +86,34 @@ nav {
 }
 
 .contact {
-    display: block;
+    display: flex;
     text-align: justify;
     margin: 20px 10px;
     color: var(--main-color);
+}
+
+.icon-discord:before {
+    content: url(/assets/icon/discord.svg);
+}
+
+.icon-github:before {
+    content: url(/assets/icon/github.svg);
+}
+
+.icon-location:before {
+    content: url(/assets/icon/location.svg);
+}
+
+.icon-mobile:before {
+    content: url(/assets/icon/mobile.svg);
+}
+
+.icon-mail:before {
+    content: url(/assets/icon/mail.svg);
+}
+
+.icon-linkedin:before {
+    content: url(/assets/icon/discord.svg);
 }
 
 .item_contact .title {
