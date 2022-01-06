@@ -58,7 +58,8 @@ nav {
 .menu_list .menu_item a:hover {
     color: #FFD673;
     text-decoration: underline solid 2px #FFD673;
-    transition-duration: .5s;
+    transition-property: all;
+    transition: .5s;
 }
 
 .aside {
@@ -97,6 +98,8 @@ nav {
 }
 
 .icon-github:before {
+    display: flex;
+    align-self: center;
     content: url(/assets/icon/github.svg);
 }
 
@@ -140,8 +143,10 @@ nav {
     color: var(--main-color);
 }
 
-h1.name {
+.header .name {
+    display: block;
     margin-bottom: 0;
+    text-align: center;
     font-size: 32px;
     font-weight: 700;
     color: var(--main-color);
@@ -207,6 +212,12 @@ footer .container {
 
 .rss {
     width: 170px;
+}
+
+.github {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .year::before {
