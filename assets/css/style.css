@@ -94,29 +94,29 @@ nav {
 }
 
 .icon-discord:before {
-    content: url(/assets/icon/discord.svg);
+    content: url(../icon/discord.svg);
 }
 
 .icon-github:before {
     display: flex;
     align-self: center;
-    content: url(/assets/icon/github.svg);
+    content: url(../icon/github.svg);
 }
 
 .icon-location:before {
-    content: url(/assets/icon/location.svg);
+    content: url(../icon/location.svg);
 }
 
 .icon-mobile:before {
-    content: url(/assets/icon/mobile.svg);
+    content: url(../icon/mobile.svg);
 }
 
 .icon-mail:before {
-    content: url(/assets/icon/mail.svg);
+    content: url(../icon/mail.svg);
 }
 
 .icon-linkedin:before {
-    content: url(/assets/icon/discord.svg);
+    content: url(../icon/discord.svg);
 }
 
 .item_contact .title {
